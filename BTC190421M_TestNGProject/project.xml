@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="regression">
+	<test name="uiTest">
+		<classes>
+			<class name="com.bit.ui.test.RegressionTest">
+				<methods>
+					<include name="test2">
+					</include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

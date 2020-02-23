@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40" started-at="2019-12-15T00:09:10 EST" finished-at="2019-12-15T00:09:10 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40" started-at="2019-12-15T00:09:10 EST" finished-at="2019-12-15T00:09:10 EST">
+      <class name="Modifirrer.BClass">
+        <test-method status="PASS" signature="test()[pri:0, instance:Modifirrer.BClass@68ceda24]" name="test" duration-ms="7" started-at="2019-12-15T00:09:10 EST" finished-at="2019-12-15T00:09:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Modifirrer.BClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
